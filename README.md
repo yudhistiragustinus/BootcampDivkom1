@@ -1,2 +1,3 @@
 # BootcampDivkom1
-Tugas Bootcamp Divkom HTML dan CSS ada di dalam folder HTMLCSS
+Tugas Bootcamp Divkom 
+18020005 - Agustinus Yudhistira Wicaksono Setyanto
